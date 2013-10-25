@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin t&iacute;tulo</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<style type="text/css">
+body{margin:10px auto; padding:10px; text-align:left; font-size:12px; font-family:Arial, Verdana; color:#333}
+#menu a, a:visited{color:#002C5B; text-decoration:none; line-height:30px; margin:20px;font-weight:bold}
+#menu a:hover{color:#A1B264; text-decoration:underline}
+#texto{text-align:justify; margin:10px}
+.titulo{font-size:18px; left:bold; color:#052558}
+</style>
+</head>
+<body> 
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0"> 
+  <tr> 
+    <td colspan="2"><img src="../cabecera.JPG"></td> 
+  </tr> 
+  <tr> 
+    <td width="150" valign="top" bgcolor="#E1FEBC">
+	<div id="menu"> 
+      <a href="../componentes.htm">Componentes</a><br> 
+      <a href="../investigacion.htm">Investigaci&oacute;n</a><br> 
+      <a href="../publicaciones.htm">Publicaciones</a><br> 
+      <a href="../proyectos.htm">Proyectos</a><br> 
+      <a href="../docencia.htm">Docencia</a><br> 
+      <a href="../enlaces.htm">Enlaces de inter&eacute;s</a><br></div> </td> 
+    <td width="650" valign="top" bgcolor="#E1FEBC"> 
+      <!-- TemplateBeginEditable name="EditRegion3" --> 
+      <div class="texto"></div> 
+      <!-- TemplateEndEditable --></td> 
+  </tr> 
+  <tr bgcolor="#E1FEBC"> 
+    <td colspan="2">&nbsp;</td> 
+  </tr> 
+</table> 
+</body>
+</html>

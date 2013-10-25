@@ -1,0 +1,5 @@
+* {border:0;margin:0;padding:0}
+
+.hoverbox {list-style:none}
+.hoverbox img {background:#fff;	padding:4px; border: 1px solid #9AC735;height:110px;width:110px;vertical-align:top}
+.hoverbox li {display:inline;margin:2px;padding:0;position:relative;float:left;}

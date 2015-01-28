@@ -1,6 +1,6 @@
 HORTOFRUIT
 ==========
 
-Our research's group public web.
+This repo contains the code and files for our research's group public web.
 
-Latest published version at http://hortofruit.biotec.uma.es/index.htm
+You can find the latest published version at http://hortofruit.biotec.uma.es/index.htm
